@@ -1,4 +1,4 @@
-//  More Information at: https://www.aeq-web.com/
+//  Original code and more Information at: https://www.aeq-web.com/
 // Version 2.0 | 11-NOV-2020
 
 /** Modified for PY32F030EK28 mcu V1.0 | 29-DEC-2024
