@@ -64,7 +64,7 @@ void measure() {
   attachInterrupt(digitalPinToInterrupt(SensorPin), countup, RISING);
   delay(1000 * RecordTime);
   detachInterrupt(digitalPinToInterrupt(SensorPin));
-  WindSpeed = (float)InterruptCounter / (float)RecordTime * 2.39;  // 2.396 is the constant for a radius of 106mm of the anemometer.
+  WindSpeed = (float)InterruptCounter / (float)RecordTime * 2.396;  // 2.396 is the constant for a radius of 106mm of the anemometer.
 }
 
 void countup() {
