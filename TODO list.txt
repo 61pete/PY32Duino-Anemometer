@@ -1,0 +1,2 @@
+The PY32 ic has an onboard batt voltage montitoring via ADC which Ive got working from the PUYA documentation example, but only in Keil uVision and output to the serial monitor.
+Figured it would be nice to see a scrolling batt voltage to indicate time for a recharge.
