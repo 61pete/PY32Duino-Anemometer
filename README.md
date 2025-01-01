@@ -11,6 +11,9 @@ Standard batt is a li-ion 14500 800mah which I upgraded to a flatter style with 
 The finished meter up on the wall
 <img src="Images/on the wall.JPG">
 
+A view of the internals.
+<img src="Images/inside.JPG">
+
 
 The 3D printed cups stl came from https://www.thingiverse.com/thing:2559929/files
 After 3 years, the magnet had rusted and was replaced.
